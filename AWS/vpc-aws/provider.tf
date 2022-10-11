@@ -10,6 +10,6 @@ variable "AWS_REGION" {
 }
 provider "aws" {
   region = var.AWS_REGION
-  access_key = "AKIA5JU3PFOKI4ECOO4C"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
